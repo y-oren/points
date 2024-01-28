@@ -48,5 +48,5 @@ class Quad:
     def Trapezoid(self):
         # TODO: Check if it is a trapezoid.
 
-    def isRhombus(self):
+    def Rhombus(self):
         # TODO: Check if it is a rhombus.
